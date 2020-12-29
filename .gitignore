@@ -1,0 +1,4 @@
+coindrop
+*.o
+coindrop.dSYM
+.vscode
